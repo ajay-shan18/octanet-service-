@@ -1,3 +1,3 @@
-# CognoRise-2
+# task 2
 # To do list app in html css node.js
 # simple interface 
