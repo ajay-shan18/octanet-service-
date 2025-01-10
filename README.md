@@ -1,3 +1,3 @@
-# task 2
-# To do list app in html css node.js
-# simple interface 
+# task 2 code campus
+# To do list app in html css .js
+# simple interface to do list 
